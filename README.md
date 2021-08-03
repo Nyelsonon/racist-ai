@@ -6,7 +6,7 @@ um well its an ai thats racist
 - [Install](https://github.com/Nyelsonon/racist-ai#install)
 - [Possible modifications](https://github.com/Nyelsonon/racist-ai#possible-modifications)
 
-# Dependencys
+# Dependencies
 - `Git`
 - `Pip`
 - `Python3`
