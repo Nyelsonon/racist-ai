@@ -1,7 +1,7 @@
 # racist-ai
 um well its an ai thats racist
 
-- [Dependencys](https://github.com/Nyelsonon/racist-ai#racist-ai)
+- [Dependencies](https://github.com/Nyelsonon/racist-ai#racist-ai)
 - [How it works](https://github.com/Nyelsonon/racist-ai#how-it-works)
 - [Install](https://github.com/Nyelsonon/racist-ai#install)
 - [Possible modifications](https://github.com/Nyelsonon/racist-ai#possible-modifications)
